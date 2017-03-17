@@ -1,0 +1,10 @@
+#Composer
+/vendor/
+composer.lock
+
+#config file
+/inc/config.php
+
+#images
+/public/img/files/
+
